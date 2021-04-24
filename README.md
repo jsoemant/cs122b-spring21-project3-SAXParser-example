@@ -1,4 +1,4 @@
-# project3-DomParser-example
+# project3-SAXParser-example
 
 ## Run the example
 
